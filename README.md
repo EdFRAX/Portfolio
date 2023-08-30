@@ -2,4 +2,4 @@
 
 My portfolio:
 
-[Click here](https://portfolio-edfrax.netlify.app) to view on web.
+[Click here](https://edfrax.github.io/Portfolio/) to view on web.
