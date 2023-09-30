@@ -6,6 +6,12 @@ const cardData = [
         link: 'https://edfrax.netlify.app/'
     },
     {
+        imgSrc: 'assets/employee-team-allocation.png',
+        title: 'Employee Team Allocation',
+        description: 'This is ReactJS based project from a React beginner course provided by codeFreeCamp.org.',
+        link: 'https://edfrax.github.io/employee-team-allocation/'
+    },
+    {
         imgSrc: 'assets/Natours.png',
         title: 'Advanced CSS And SASS project',
         description: 'This project has Sass and advanced css. It is designed by Jonas Schmedtmann',
