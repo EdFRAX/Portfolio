@@ -12,6 +12,12 @@ const cardData = [
         link: 'https://edfrax.github.io/employee-team-allocation/'
     },
     {
+        imgSrc: 'assets/task-manager-app.png',
+        title: 'React task manager app',
+        description: 'This is ReactJS task manager app which let you add, complete and delete task.',
+        link: 'https://edfrax.github.io/task-manager-app/'
+    },
+    {
         imgSrc: 'assets/Natours.png',
         title: 'Advanced CSS And SASS project',
         description: 'This project has Sass and advanced css. It is designed by Jonas Schmedtmann',
