@@ -6,6 +6,12 @@ const cardData = [
         link: 'https://edfrax.netlify.app/'
     },
     {
+        imgSrc: 'assets/popular-animes.png',
+        title: 'Popular Animes',
+        description: 'This is ReactJS based project inspired from a project from a React beginner course provided by codeFreeCamp.org.',
+        link: 'https://popular-animes.netlify.app/'
+    },
+    {
         imgSrc: 'assets/employee-team-allocation.png',
         title: 'Employee Team Allocation',
         description: 'This is ReactJS based project from a React beginner course provided by codeFreeCamp.org.',
